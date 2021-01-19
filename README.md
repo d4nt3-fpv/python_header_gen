@@ -1,2 +1,15 @@
-# python_header_gen
-A simple generator to generate a Python header.
+# Python header generator
+
+In this project I am working on a header generator for python programs. The python script already works. I'm still working on a graphical user interface. Furthermore, the generated header blocks should be more beautiful ...
+## Installation
+
+At this time you don't need any libraries to use the Python script.
+
+## Usage
+
+Just download the file and run it.
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
