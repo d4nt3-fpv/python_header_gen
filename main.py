@@ -1,3 +1,4 @@
+
 print("Okay erst mal nen paar fragen...")
 autor_name = input("Wie ist dein Name?: ")
 project_name = input("Wie heißt das Projekt?: ")
