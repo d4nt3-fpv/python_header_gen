@@ -15,7 +15,10 @@ if pr_or_cmment == "print":
     befehl = "print('"
     abschluss = "')"
 else:
-    befehl = "# "
+
+    which_lang = input(" # or //? ")
+
+    befehl = which_lang
     abschluss = ""
 
 
